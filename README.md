@@ -1,4 +1,4 @@
-# mandelbrot-set
+# terminal commands
 
 gcc -Wall -g -c  mandel.c -o mandel.o
 
